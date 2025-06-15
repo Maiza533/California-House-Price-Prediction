@@ -1,8 +1,9 @@
 **<h1 align='center'>California Housing Prices Prediction App </h1>**
 
 <p align="center">
-<img src="" alt="animated" />
+<img src="https://github.com/user-attachments/assets/81788ae3-ff70-470f-8058-c5fd6b09b970" alt="animated" />
 </p>
+
 
 ## 🔍 About the Project:
 In this project, we will use random forest regression technique with the Python **scikit-learn** library to predict housing prices in California. The goal is to understand which characteristics of a residential property (such as number of bedrooms, location, local income, etc.) influence its market value.
