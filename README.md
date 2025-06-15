@@ -34,3 +34,22 @@ The *dataset* has the following variables:
 - **` Median House Value `**: Middle point at which half of the house prices in a specific area are higher and half are lower.
 
 - **` Ocean Proximity `**: Proximity of a housing property to the ocean or any other body of water.
+
+
+English
+## Etapas do projeto
+
+1. Importar os dados e as bibliotecas
+2. Entender os dados e seus tipos
+3. Análise Exploratória
+4. *Feature Engineering*
+5. Modelagem
+6. *Deploy*
+## Project steps
+
+1. Import data and libraries
+2. Understand data and its types
+3. Exploratory analysis
+4. *Feature Engineering*
+5. Modeling
+6. *Deploy*
