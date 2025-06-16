@@ -1,7 +1,7 @@
 **<h1 align='center'>California Housing Prices Prediction App </h1>**
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/81788ae3-ff70-470f-8058-c5fd6b09b970" alt="animated" />
+<video src="https://github.com/user-attachments/assets/81788ae3-ff70-470f-8058-c5fd6b09b970" alt="animated" />
 </p>
 
 
@@ -37,15 +37,6 @@ The *dataset* has the following variables:
 - **` Ocean Proximity `**: Proximity of a housing property to the ocean or any other body of water.
 
 
-English
-## Etapas do projeto
-
-1. Importar os dados e as bibliotecas
-2. Entender os dados e seus tipos
-3. Análise Exploratória
-4. *Feature Engineering*
-5. Modelagem
-6. *Deploy*
 ## Project steps
 
 1. Import data and libraries
